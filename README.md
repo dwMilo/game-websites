@@ -2,8 +2,8 @@
 
 
 
-``this respiratory  is where we base this respiratory  off of game websites for school
-this respiratory was made by me and one of my friends``
+``this respiratory  is where we base this respiratory  off of game websites for school``
+
 
   
   https://my.dingshun.org/algebra 
@@ -17,3 +17,5 @@ this respiratory was made by me and one of my friends``
   https://1700history.v0x.eu/
   
   https://www.blocksmithxr.com/hub/games
+
+  > made
