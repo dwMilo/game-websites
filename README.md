@@ -7,7 +7,7 @@ this respiratory  is where we base this respiratory  off of game websites for sc
   
   https://my.dingshun.org/go
   
-  https://wbsite-sdls.vercel.app/ ⬅ undeployed/blocked _cannot be fixed__
+  https://wbsite-sdls.vercel.app/ ⬅ undeployed/blocked _cannot be fixed_
   
   https://mathgames66.github.io/
   
