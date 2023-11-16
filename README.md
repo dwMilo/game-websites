@@ -29,6 +29,6 @@
 
 https://lioxryt.github.io
 
-schoolizboring.github.io/Unblocked-Websites/
+https://schoolizboring.github.io/Unblocked-Websites/
 
-radon.games
+https://radon.games
