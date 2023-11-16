@@ -36,3 +36,10 @@ https://radon.games
 https://geometryspot.com/
 
 https://geometry.lol
+
+
+# Socials coming soon 
+
+- discord username
+- discord server
+- youtube  in description 
