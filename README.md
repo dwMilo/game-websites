@@ -32,3 +32,7 @@ https://lioxryt.github.io
 https://schoolizboring.github.io/Unblocked-Websites/
 
 https://radon.games
+
+https://geometryspot.com/
+
+https://geometry.lol
