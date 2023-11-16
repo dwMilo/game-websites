@@ -1,12 +1,12 @@
 # game-websites
 
-[monkey]
+
 
 this respiratory  is where we base this respiratory  off of game websites for school 
 
   
-  https://my.dingshun.org/go
-  
+**  https://my.dingshun.org/algebra 
+**  
   https://wbsite-sdls.vercel.app/ ⬅ undeployed/blocked _cannot be fixed_
   
   https://mathgames66.github.io/
