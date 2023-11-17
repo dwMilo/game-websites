@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/SchoolIzBoring/Unblocked-Websites/main/logo.png" alt="Logo"/>![image](https://github.com/dwMilo/game-websites/assets/133721816/bc8b4176-4b6d-4c8b-992e-3213d3b7efa4)
-
-
+# game-websites
 
 ``this respiratory  is where we base this respiratory  off of game websites for school``
 
