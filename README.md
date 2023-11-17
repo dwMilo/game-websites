@@ -53,4 +53,4 @@ https://geometry.lol
 
 
 
-This site was built by me and my friend [Youtube](https://youtube.com/dx7h/).
+This site was built by me and my friend [My Youtube](https://youtube.com/dx7h/).
