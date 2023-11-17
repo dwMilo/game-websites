@@ -1,7 +1,6 @@
 # game-websites
 
 
-# This site was built using [Github](https://github.com/).
 
 
 Check out my youtube channel [Youtube](https://youtube.com/dx7h/).
