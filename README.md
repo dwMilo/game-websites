@@ -44,3 +44,13 @@ https://geometry.lol
 - discord server
 - youtube  in description
 - Fill out the form to help me make the server and get a special role on the server https://forms.gle/R4crLe9zBcGT4cfa6
+
+
+
+
+
+
+
+
+
+This site was built by me and my friend [Youtube](https://youtube.com/dx7h/).
