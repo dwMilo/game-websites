@@ -1,7 +1,15 @@
 # This site was built using [Github](https://github.com/).
 
 
-__Check out my youtube channel [Youtube](https://youtube.com/dx7h/).__
+Check out my youtube channel [Youtube](https://youtube.com/dx7h/).
+
+
+# Socials coming soon 
+
+- discord username
+- discord server
+- youtube  in description
+- Fill out the form to help me make the server and get a special role on the server https://forms.gle/R4crLe9zBcGT4cfa6
 
 
 # game-websites
@@ -52,10 +60,3 @@ https://55gms.tk/
 https://feetnetworks.netlify.app/
 
 https://mathgames67.github.io/
-
-# Socials coming soon 
-
-- discord username
-- discord server
-- youtube  in description
-- Fill out the form to help me make the server and get a special role on the server https://forms.gle/R4crLe9zBcGT4cfa6
