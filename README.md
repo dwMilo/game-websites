@@ -37,6 +37,15 @@ https://geometryspot.com/
 
 https://geometry.lol
 
+https://outred.github.io/
+
+https://purepro4561.github.io
+
+https://55gms.tk/
+
+https://feetnetworks.netlify.app/
+
+https://mathgames67.github.io/
 
 # Socials coming soon 
 
@@ -44,13 +53,3 @@ https://geometry.lol
 - discord server
 - youtube  in description
 - Fill out the form to help me make the server and get a special role on the server https://forms.gle/R4crLe9zBcGT4cfa6
-
-
-
-
-
-
-
-
-
-This site was built by me and my friend [My Youtube](https://youtube.com/dx7h/).
