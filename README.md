@@ -1,3 +1,6 @@
+# game-websites
+
+
 # This site was built using [Github](https://github.com/).
 
 
@@ -11,8 +14,6 @@ Check out my youtube channel [Youtube](https://youtube.com/dx7h/).
 - youtube  in description
 - Fill out the form to help me make the server and get a special role on the server https://forms.gle/R4crLe9zBcGT4cfa6
 
-
-# game-websites
 
 
 
@@ -33,13 +34,6 @@ Check out my youtube channel [Youtube](https://youtube.com/dx7h/).
   https://www.blocksmithxr.com/hub/games
 
 > -------------------------------------------------------------------------------------------------------
-> -------------------------------------------------------------------------------------------------------
-> -------------------------------------------------------------------------------------------------------
-# Working on more websites to build in the meantime I will publish unblocked ones
-> -------------------------------------------------------------------------------------------------------
-> -------------------------------------------------------------------------------------------------------
-> -------------------------------------------------------------------------------------------------------
-
 
 https://lioxryt.github.io
 
