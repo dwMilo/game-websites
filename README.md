@@ -42,7 +42,7 @@
 # Check out my youtube channel [Youtube](https://youtube.com/dx7h/).
 
 
-  # Socials coming soon 
+  ### Socials coming soon 
 
   - discord username
   - discord server
