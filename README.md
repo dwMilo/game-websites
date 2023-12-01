@@ -42,7 +42,7 @@
 
   https://mathgames67.github.io/
 
-  https://greenfoot.org/ ⬅ Java Programming ### Search Chicken defender PVZ reference
+  https://greenfoot.org/ ⬅ Java Programming (Search Chicken defender PVZ reference)
 
 -----------------------------------------------------------------------------
 -----------------------------------------------------------------------------
