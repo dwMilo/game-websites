@@ -46,6 +46,10 @@
 
   https://cookieclickers.co
 
+  https://doodle-pile.gitlab.io/goomy-clicker/2018/
+
+   https://doodle-pile.gitlab.io
+
 
 -----------------------------------------------------------------------------
 
