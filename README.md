@@ -4,7 +4,7 @@
 
 ``this respiratory  is where we base this respiratory  off of game websites for school``
 
-
+### Check out my youtube channel [dx7h](https://youtube.com/dx7h/).
   
   https://my.dingshun.org/algebra 
 
@@ -49,8 +49,6 @@
 
 -----------------------------------------------------------------------------
 
-
-### Check out my youtube channel [dx7h](https://youtube.com/dx7h/).
 
 
   ## Socials coming soon 
