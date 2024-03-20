@@ -50,7 +50,7 @@
 
 -----------------------------------------------------------------------------
 
-
+Vyper Group discord [![Join us on Discord](https://invidget.switchblade.xyz/nowgg?theme=dark)](https://discord.gg/nowgg)
 
   ## Socials coming soon 
 
