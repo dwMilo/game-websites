@@ -44,8 +44,9 @@
 
   https://doodle-pile.gitlab.io/goomy-clicker/2018/
 
-   https://doodle-pile.gitlab.io
+  https://doodle-pile.gitlab.io
 
+  https://percentages.bot.nu/
 
 -----------------------------------------------------------------------------
 
