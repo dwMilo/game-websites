@@ -49,6 +49,14 @@
   https://percentages.bot.nu/
   
   https://addition.mascables.com/
+
+  https://subtraction.nicolasi.com/
+
+  https://addition.nicolasi.com/
+
+  https://addition.macauley.us/
+
+  https://community.charity.anandamarga.org.uk
   
 -----------------------------------------------------------------------------
 
